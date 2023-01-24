@@ -3,3 +3,6 @@
 
 ## ライセンス
 https://github.com/amx-project/kuwanauchi03iwate/blob/main/LICENSE.md
+
+## データ
+* [XML](https://github.com/amx-project/kuwanauchi03iwate/tree/main/xml)
